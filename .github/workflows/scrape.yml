@@ -1,0 +1,65 @@
+name: GSMArena scrape
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"   # backup restart in case the chain breaks
+
+concurrency:
+  group: gsmarena-scrape
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check if already finished
+        id: chk
+        run: |
+          if [ -f FINISHED ]; then echo "done=1" >> $GITHUB_OUTPUT; else echo "done=0" >> $GITHUB_OUTPUT; fi
+
+      - uses: actions/setup-python@v5
+        if: steps.chk.outputs.done == '0'
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        if: steps.chk.outputs.done == '0'
+        run: pip install requests beautifulsoup4
+
+      - name: Scrape (max ~5h20m per run)
+        if: steps.chk.outputs.done == '0'
+        env:
+          MAX_SECONDS: "19200"
+        run: python scrape.py | tee -a scrape_log.txt
+
+      - name: Save progress
+        if: always() && steps.chk.outputs.done == '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Progress $(date -u +'%Y-%m-%d %H:%M') UTC" || echo "nothing to commit"
+          git push
+
+      - name: Publish zip when finished
+        if: steps.chk.outputs.done == '0' && hashFiles('FINISHED') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          zip -r -q GSMArena_full.zip specs lists
+          gh release view full >/dev/null 2>&1 || gh release create full -t "GSMArena full specs" -n "All brands, all models, full spec pages."
+          gh release upload full GSMArena_full.zip --clobber
+
+      - name: Start next run
+        if: steps.chk.outputs.done == '0' && hashFiles('FINISHED') == ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run scrape.yml --ref ${{ github.ref_name }}
