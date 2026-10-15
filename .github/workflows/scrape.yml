@@ -38,6 +38,7 @@ jobs:
         if: steps.chk.outputs.done == '0'
         env:
           MAX_SECONDS: "19200"
+          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
         run: python scrape.py | tee -a scrape_log.txt
 
       - name: Save progress
