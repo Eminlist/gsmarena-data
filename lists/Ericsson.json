@@ -1,0 +1,162 @@
+[
+ {
+  "name": "R600",
+  "url": "ericsson_r600-283.php"
+ },
+ {
+  "name": "T68",
+  "url": "ericsson_t68-253.php"
+ },
+ {
+  "name": "T66",
+  "url": "ericsson_t66-282.php"
+ },
+ {
+  "name": "T65",
+  "url": "ericsson_t65-266.php"
+ },
+ {
+  "name": "T39",
+  "url": "ericsson_t39-252.php"
+ },
+ {
+  "name": "A3618",
+  "url": "ericsson_a3618-262.php"
+ },
+ {
+  "name": "T29s",
+  "url": "ericsson_t29s-225.php"
+ },
+ {
+  "name": "R520m",
+  "url": "ericsson_r520m-199.php"
+ },
+ {
+  "name": "T20e",
+  "url": "ericsson_t20e-251.php"
+ },
+ {
+  "name": "A2628",
+  "url": "ericsson_a2628-226.php"
+ },
+ {
+  "name": "T20s",
+  "url": "ericsson_t20s-211.php"
+ },
+ {
+  "name": "T36",
+  "url": "ericsson_t36-190.php"
+ },
+ {
+  "name": "R380",
+  "url": "ericsson_r380-195.php"
+ },
+ {
+  "name": "R320",
+  "url": "ericsson_r320-194.php"
+ },
+ {
+  "name": "R310s",
+  "url": "ericsson_r310s-200.php"
+ },
+ {
+  "name": "A2618",
+  "url": "ericsson_a2618-193.php"
+ },
+ {
+  "name": "R250s PRO",
+  "url": "ericsson_r250s_pro-119.php"
+ },
+ {
+  "name": "T28 World",
+  "url": "ericsson_t28_world-118.php"
+ },
+ {
+  "name": "T28s",
+  "url": "ericsson_t28s-117.php"
+ },
+ {
+  "name": "T18s",
+  "url": "ericsson_t18s-116.php"
+ },
+ {
+  "name": "T10s",
+  "url": "ericsson_t10s-115.php"
+ },
+ {
+  "name": "A1018s",
+  "url": "ericsson_a1018s-114.php"
+ },
+ {
+  "name": "I 888",
+  "url": "ericsson_i_888-113.php"
+ },
+ {
+  "name": "SH 888",
+  "url": "ericsson_sh_888-112.php"
+ },
+ {
+  "name": "S 868",
+  "url": "ericsson_s_868-111.php"
+ },
+ {
+  "name": "GF 788e",
+  "url": "ericsson_gf_788e-110.php"
+ },
+ {
+  "name": "GF 788",
+  "url": "ericsson_gf_788-109.php"
+ },
+ {
+  "name": "PF 768",
+  "url": "ericsson_pf_768-108.php"
+ },
+ {
+  "name": "GF 768",
+  "url": "ericsson_gf_768-107.php"
+ },
+ {
+  "name": "GH 688",
+  "url": "ericsson_gh_688-106.php"
+ },
+ {
+  "name": "GA 628",
+  "url": "ericsson_ga_628-105.php"
+ },
+ {
+  "name": "GF 388",
+  "url": "ericsson_gf_388-104.php"
+ },
+ {
+  "name": "GH 388",
+  "url": "ericsson_gh_388-103.php"
+ },
+ {
+  "name": "GS 337",
+  "url": "ericsson_gs_337-102.php"
+ },
+ {
+  "name": "GF 337",
+  "url": "ericsson_gf_337-101.php"
+ },
+ {
+  "name": "GH 337",
+  "url": "ericsson_gh_337-100.php"
+ },
+ {
+  "name": "GA 318",
+  "url": "ericsson_ga_318-99.php"
+ },
+ {
+  "name": "GS 18",
+  "url": "ericsson_gs_18-98.php"
+ },
+ {
+  "name": "GO 118",
+  "url": "ericsson_go_118-97.php"
+ },
+ {
+  "name": "GH 218",
+  "url": "ericsson_gh_218-96.php"
+ }
+]

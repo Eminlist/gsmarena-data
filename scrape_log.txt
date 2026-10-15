@@ -1,0 +1,28 @@
+10-14 21:45:25 LIST Celkon 229 / 229
+10-14 21:45:36 LIST Chea 12 / 12
+10-14 21:45:57 LIST Coolpad 57 / 57
+10-14 21:46:28 LIST Cubot 107 / 107
+10-14 21:46:39 LIST Dell 20 / 20
+10-14 21:47:21 LIST Doogee 162 / 162
+10-14 21:47:31 LIST Emporia 15 / 15
+10-14 21:47:52 LIST Energizer 78 / 78
+10-14 21:48:03 LIST Ericsson 40 / 40
+10-14 21:48:13 LIST Eten 22 / 22
+10-14 21:48:24 LIST Fairphone 6 / 6
+10-14 21:48:34 LIST Fujitsu Siemens 2 / 2
+10-14 21:48:44 LIST Garmin-Asus 5 / 5
+10-14 21:48:45 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 120
+10-14 21:50:45 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 240
+10-14 21:54:46 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 480
+10-14 22:02:46 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 960
+10-14 22:18:47 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 1800
+10-14 22:48:47 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 1800
+10-14 23:18:47 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 1800
+10-14 23:48:48 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 1800
+10-15 00:18:49 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 1800
+10-15 00:48:49 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 1800
+10-15 01:18:50 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 1800
+10-15 01:48:50 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 1800
+10-15 02:18:51 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 1800
+10-15 02:48:51 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 1800
+10-15 02:48:51 TIME LIMIT - stopping, progress saved
