@@ -26,3 +26,127 @@
 10-15 02:18:51 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 1800
 10-15 02:48:51 HTTP 429 https://www.gsmarena.com/gigabyte-phones-47.php wait 1800
 10-15 02:48:51 TIME LIMIT - stopping, progress saved
+10-15 13:35:45 LIST → Gigabyte
+10-15 13:37:10 LIST Gigabyte 63 / 63
+10-15 13:37:10 LIST → Gionee
+10-15 13:38:39 HTTP 500 https://www.gsmarena.com/gionee-phones-f-92-0-p2.php attempt=1 wait=45s
+10-15 13:40:14 LIST Gionee 95 / 95
+10-15 13:40:14 LIST → Google
+10-15 13:40:54 LIST Google 45 / 46
+10-15 13:40:54 LIST → Haier
+10-15 13:42:17 LIST Haier 59 / 59
+10-15 13:42:17 LIST → HMD
+10-15 13:43:00 LIST HMD 42 / 42
+10-15 13:43:00 LIST → Honor
+10-15 13:47:08 HTTP 500 https://www.gsmarena.com/honor-phones-f-121-0-p5.php attempt=1 wait=45s
+10-15 13:50:18 LIST Honor 347 / 348
+10-15 13:50:18 LIST → HP
+10-15 13:51:13 HTTP 500 https://www.gsmarena.com/hp-phones-41.php attempt=1 wait=45s
+10-15 13:52:25 LIST HP 41 / 41
+10-15 13:52:25 LIST → HTC
+10-15 13:53:20 HTTP 500 https://www.gsmarena.com/htc-phones-45.php attempt=1 wait=45s
+10-15 13:55:59 HTTP 500 https://www.gsmarena.com/htc-phones-f-45-0-p3.php attempt=1 wait=45s
+10-15 13:57:40 HTTP 500 https://www.gsmarena.com/htc-phones-f-45-0-p3.php attempt=2 wait=76s
+10-15 14:00:40 LIST HTC 297 / 297
+10-15 14:00:40 LIST → Huawei
+10-15 14:02:49 HTTP 500 https://www.gsmarena.com/huawei-phones-f-58-0-p3.php attempt=1 wait=45s
+10-15 14:05:21 HTTP 500 https://www.gsmarena.com/huawei-phones-f-58-0-p5.php attempt=1 wait=45s
+10-15 14:09:08 HTTP 500 https://www.gsmarena.com/huawei-phones-f-58-0-p9.php attempt=1 wait=45s
+10-15 14:11:14 LIST Huawei 550 / 552
+10-15 14:11:14 LIST → i-mate
+10-15 14:11:40 LIST i-mate 34 / 34
+10-15 14:11:40 LIST → i-mobile
+10-15 14:12:35 HTTP 500 https://www.gsmarena.com/i_mobile-phones-52.php attempt=1 wait=45s
+10-15 14:13:57 LIST i-mobile 37 / 37
+10-15 14:13:57 LIST → Icemobile
+10-15 14:15:19 HTTP 500 https://www.gsmarena.com/icemobile-phones-f-69-0-p2.php attempt=1 wait=45s
+10-15 14:17:00 HTTP 500 https://www.gsmarena.com/icemobile-phones-f-69-0-p2.php attempt=2 wait=76s
+10-15 14:18:43 LIST Icemobile 61 / 61
+10-15 14:18:43 LIST → Infinix
+10-15 14:19:39 HTTP 500 https://www.gsmarena.com/infinix-phones-119.php attempt=1 wait=45s
+10-15 14:21:20 HTTP 500 https://www.gsmarena.com/infinix-phones-119.php attempt=2 wait=76s
+10-15 14:23:32 HTTP 500 https://www.gsmarena.com/infinix-phones-119.php attempt=3 wait=130s
+10-15 14:26:37 HTTP 500 https://www.gsmarena.com/infinix-phones-119.php attempt=4 wait=221s
+10-15 14:33:15 LIST Infinix 172 / 172
+10-15 14:33:15 LIST → Innostream
+10-15 14:33:42 LIST Innostream 18 / 18
+10-15 14:33:42 LIST → iNQ
+10-15 14:34:37 HTTP 500 https://www.gsmarena.com/inq-phones-60.php attempt=1 wait=45s
+10-15 14:35:47 LIST iNQ 5 / 5
+10-15 14:35:47 LIST → Intex
+10-15 14:36:08 LIST Intex 15 / 15
+10-15 14:36:08 LIST → itel
+10-15 14:36:57 LIST itel 73 / 73
+10-15 14:36:57 LIST → Jolla
+10-15 14:37:35 LIST Jolla 5 / 5
+10-15 14:37:35 LIST → Karbonn
+10-15 14:38:24 LIST Karbonn 60 / 60
+10-15 14:38:24 LIST → Kyocera
+10-15 14:38:50 LIST Kyocera 28 / 28
+10-15 14:38:50 LIST → Lava
+10-15 14:41:03 HTTP 500 https://www.gsmarena.com/lava-phones-f-94-0-p4.php attempt=1 wait=45s
+10-15 14:42:27 LIST Lava 185 / 185
+10-15 14:42:27 LIST → LeEco
+10-15 14:42:55 LIST LeEco 9 / 9
+10-15 14:42:55 LIST → Lenovo
+10-15 14:45:16 HTTP 500 https://www.gsmarena.com/lenovo-phones-f-73-0-p3.php attempt=1 wait=45s
+10-15 14:47:54 LIST Lenovo 267 / 267
+10-15 14:47:54 LIST → LG
+10-15 14:51:51 HTTP 500 https://www.gsmarena.com/lg-phones-f-20-0-p7.php attempt=1 wait=45s
+10-15 14:54:51 HTTP 500 https://www.gsmarena.com/lg-phones-f-20-0-p9.php attempt=1 wait=45s
+10-15 14:57:27 HTTP 500 https://www.gsmarena.com/lg-phones-f-20-0-p11.php attempt=1 wait=45s
+10-15 14:59:07 HTTP 500 https://www.gsmarena.com/lg-phones-f-20-0-p11.php attempt=2 wait=76s
+10-15 15:02:57 LIST LG 667 / 667
+10-15 15:02:57 LIST → Maxon
+10-15 15:03:24 LIST Maxon 31 / 31
+10-15 15:03:24 LIST → Maxwest
+10-15 15:03:54 LIST Maxwest 41 / 41
+10-15 15:03:54 LIST → Meizu
+10-15 15:05:26 HTTP 500 https://www.gsmarena.com/meizu-phones-f-74-0-p2.php attempt=1 wait=45s
+10-15 15:07:07 HTTP 500 https://www.gsmarena.com/meizu-phones-f-74-0-p2.php attempt=2 wait=76s
+10-15 15:09:18 HTTP 500 https://www.gsmarena.com/meizu-phones-f-74-0-p2.php attempt=3 wait=130s
+10-15 15:11:56 LIST Meizu 87 / 87
+10-15 15:11:56 LIST → Micromax
+10-15 15:16:09 HTTP 500 https://www.gsmarena.com/micromax-phones-f-66-0-p6.php attempt=1 wait=45s
+10-15 15:17:24 LIST Micromax 289 / 289
+10-15 15:17:24 LIST → Microsoft
+10-15 15:18:19 HTTP 500 https://www.gsmarena.com/microsoft-phones-64.php attempt=1 wait=45s
+10-15 15:19:31 LIST Microsoft 32 / 32
+10-15 15:19:31 LIST → Mitac
+10-15 15:20:26 HTTP 500 https://www.gsmarena.com/mitac-phones-25.php attempt=1 wait=45s
+10-15 15:21:38 LIST Mitac 12 / 12
+10-15 15:21:38 LIST → Mitsubishi
+10-15 15:22:03 LIST Mitsubishi 25 / 25
+10-15 15:22:03 LIST → Modu
+10-15 15:22:59 LIST Modu 8 / 8
+10-15 15:22:59 LIST → Motorola
+10-15 15:26:12 HTTP 500 https://www.gsmarena.com/motorola-phones-f-4-0-p5.php attempt=1 wait=45s
+10-15 15:27:53 HTTP 500 https://www.gsmarena.com/motorola-phones-f-4-0-p5.php attempt=2 wait=76s
+10-15 15:31:04 HTTP 500 https://www.gsmarena.com/motorola-phones-f-4-0-p6.php attempt=1 wait=45s
+10-15 15:33:49 HTTP 500 https://www.gsmarena.com/motorola-phones-f-4-0-p8.php attempt=1 wait=45s
+10-15 15:36:25 HTTP 500 https://www.gsmarena.com/motorola-phones-f-4-0-p10.php attempt=1 wait=45s
+10-15 15:38:05 HTTP 500 https://www.gsmarena.com/motorola-phones-f-4-0-p10.php attempt=2 wait=76s
+10-15 15:41:59 LIST Motorola 700 / 709
+10-15 15:41:59 LIST → MWg
+10-15 15:42:54 HTTP 500 https://www.gsmarena.com/mwg-phones-56.php attempt=1 wait=45s
+10-15 15:44:19 LIST MWg 5 / 5
+10-15 15:44:19 LIST → NEC
+10-15 15:45:38 HTTP 500 https://www.gsmarena.com/nec-phones-f-12-0-p2.php attempt=1 wait=45s
+10-15 15:47:18 HTTP 500 https://www.gsmarena.com/nec-phones-f-12-0-p2.php attempt=2 wait=76s
+10-15 15:49:13 LIST NEC 73 / 73
+10-15 15:49:13 LIST → Neonode
+10-15 15:49:40 LIST Neonode 3 / 3
+10-15 15:49:40 LIST → NIU
+10-15 15:50:06 LIST NIU 30 / 30
+10-15 15:50:06 LIST → Nokia
+10-15 15:51:01 HTTP 500 https://www.gsmarena.com/nokia-phones-1.php attempt=1 wait=45s
+10-15 15:53:33 HTTP 403 https://www.gsmarena.com/nokia-phones-f-1-0-p5.php attempt=1 wait=45s
+10-15 15:54:18 HTTP 403 https://www.gsmarena.com/nokia-phones-f-1-0-p5.php attempt=2 wait=76s
+10-15 15:55:35 HTTP 403 https://www.gsmarena.com/nokia-phones-f-1-0-p5.php attempt=3 wait=130s
+10-15 15:57:45 HTTP 403 https://www.gsmarena.com/nokia-phones-f-1-0-p5.php attempt=4 wait=221s
+10-15 16:01:26 HTTP 403 https://www.gsmarena.com/nokia-phones-f-1-0-p5.php attempt=5 wait=375s
+10-15 16:07:42 HTTP 403 https://www.gsmarena.com/nokia-phones-f-1-0-p5.php attempt=6 wait=638s
+10-15 16:18:22 HTTP 403 https://www.gsmarena.com/nokia-phones-f-1-0-p5.php attempt=7 wait=1086s
+10-15 16:36:28 HTTP 403 https://www.gsmarena.com/nokia-phones-f-1-0-p5.php attempt=8 wait=1500s
+10-15 17:01:28 HTTP 403 https://www.gsmarena.com/nokia-phones-f-1-0-p5.php attempt=9 wait=1500s
+10-15 17:26:29 HTTP 403 https://www.gsmarena.com/nokia-phones-f-1-0-p5.php attempt=10 wait=1500s

@@ -1,1 +1,707 @@
-{"brands": [{"name": "Acer", "url": "acer-phones-59.php", "count": 117}, {"name": "alcatel", "url": "alcatel-phones-5.php", "count": 414}, {"name": "Allview", "url": "allview-phones-88.php", "count": 157}, {"name": "Amazon", "url": "amazon-phones-76.php", "count": 28}, {"name": "Amoi", "url": "amoi-phones-28.php", "count": 47}, {"name": "Apple", "url": "apple-phones-48.php", "count": 153}, {"name": "Archos", "url": "archos-phones-90.php", "count": 43}, {"name": "Asus", "url": "asus-phones-46.php", "count": 208}, {"name": "AT&T", "url": "at&t-phones-57.php", "count": 4}, {"name": "Benefon", "url": "benefon-phones-15.php", "count": 9}, {"name": "BenQ", "url": "benq-phones-31.php", "count": 35}, {"name": "BenQ-Siemens", "url": "benq_siemens-phones-42.php", "count": 28}, {"name": "Bird", "url": "bird-phones-34.php", "count": 61}, {"name": "BlackBerry", "url": "blackberry-phones-36.php", "count": 92}, {"name": "Blackview", "url": "blackview-phones-116.php", "count": 138}, {"name": "BLU", "url": "blu-phones-67.php", "count": 369}, {"name": "Bosch", "url": "bosch-phones-10.php", "count": 10}, {"name": "BQ", "url": "bq-phones-108.php", "count": 20}, {"name": "Casio", "url": "casio-phones-77.php", "count": 5}, {"name": "Cat", "url": "cat-phones-89.php", "count": 22}, {"name": "Celkon", "url": "celkon-phones-75.php", "count": 229}, {"name": "Chea", "url": "chea-phones-24.php", "count": 12}, {"name": "Coolpad", "url": "coolpad-phones-105.php", "count": 57}, {"name": "Cubot", "url": "cubot-phones-130.php", "count": 107}, {"name": "Dell", "url": "dell-phones-61.php", "count": 20}, {"name": "Doogee", "url": "doogee-phones-129.php", "count": 162}, {"name": "Emporia", "url": "emporia-phones-93.php", "count": 15}, {"name": "Energizer", "url": "energizer-phones-106.php", "count": 78}, {"name": "Ericsson", "url": "ericsson-phones-2.php", "count": 40}, {"name": "Eten", "url": "eten-phones-40.php", "count": 22}, {"name": "Fairphone", "url": "fairphone-phones-127.php", "count": 6}, {"name": "Fujitsu Siemens", "url": "fujitsu_siemens-phones-50.php", "count": 2}, {"name": "Garmin-Asus", "url": "garmin_asus-phones-65.php", "count": 5}, {"name": "Gigabyte", "url": "gigabyte-phones-47.php", "count": 63}, {"name": "Gionee", "url": "gionee-phones-92.php", "count": 95}, {"name": "Google", "url": "google-phones-107.php", "count": 46}, {"name": "Haier", "url": "haier-phones-33.php", "count": 59}, {"name": "HMD", "url": "hmd-phones-133.php", "count": 42}, {"name": "Honor", "url": "honor-phones-121.php", "count": 348}, {"name": "HP", "url": "hp-phones-41.php", "count": 41}, {"name": "HTC", "url": "htc-phones-45.php", "count": 297}, {"name": "Huawei", "url": "huawei-phones-58.php", "count": 552}, {"name": "i-mate", "url": "i_mate-phones-35.php", "count": 34}, {"name": "i-mobile", "url": "i_mobile-phones-52.php", "count": 37}, {"name": "Icemobile", "url": "icemobile-phones-69.php", "count": 61}, {"name": "Infinix", "url": "infinix-phones-119.php", "count": 172}, {"name": "Innostream", "url": "innostream-phones-29.php", "count": 18}, {"name": "iNQ", "url": "inq-phones-60.php", "count": 5}, {"name": "Intex", "url": "intex-phones-102.php", "count": 15}, {"name": "itel", "url": "itel-phones-131.php", "count": 73}, {"name": "Jolla", "url": "jolla-phones-84.php", "count": 5}, {"name": "Karbonn", "url": "karbonn-phones-83.php", "count": 60}, {"name": "Kyocera", "url": "kyocera-phones-17.php", "count": 28}, {"name": "Lava", "url": "lava-phones-94.php", "count": 185}, {"name": "LeEco", "url": "leeco-phones-109.php", "count": 9}, {"name": "Lenovo", "url": "lenovo-phones-73.php", "count": 267}, {"name": "LG", "url": "lg-phones-20.php", "count": 667}, {"name": "Maxon", "url": "maxon-phones-14.php", "count": 31}, {"name": "Maxwest", "url": "maxwest-phones-87.php", "count": 41}, {"name": "Meizu", "url": "meizu-phones-74.php", "count": 87}, {"name": "Micromax", "url": "micromax-phones-66.php", "count": 289}, {"name": "Microsoft", "url": "microsoft-phones-64.php", "count": 32}, {"name": "Mitac", "url": "mitac-phones-25.php", "count": 12}, {"name": "Mitsubishi", "url": "mitsubishi-phones-8.php", "count": 25}, {"name": "Modu", "url": "modu-phones-63.php", "count": 8}, {"name": "Motorola", "url": "motorola-phones-4.php", "count": 709}, {"name": "MWg", "url": "mwg-phones-56.php", "count": 5}, {"name": "NEC", "url": "nec-phones-12.php", "count": 73}, {"name": "Neonode", "url": "neonode-phones-22.php", "count": 3}, {"name": "NIU", "url": "niu-phones-79.php", "count": 30}, {"name": "Nokia", "url": "nokia-phones-1.php", "count": 598}, {"name": "Nothing", "url": "nothing-phones-128.php", "count": 16}, {"name": "Nvidia", "url": "nvidia-phones-97.php", "count": 3}, {"name": "O2", "url": "o2-phones-30.php", "count": 45}, {"name": "OnePlus", "url": "oneplus-phones-95.php", "count": 117}, {"name": "Oppo", "url": "oppo-phones-82.php", "count": 432}, {"name": "Orange", "url": "orange-phones-71.php", "count": 19}, {"name": "Oscal", "url": "oscal-phones-134.php", "count": 33}, {"name": "Oukitel", "url": "oukitel-phones-132.php", "count": 126}, {"name": "Palm", "url": "palm-phones-27.php", "count": 17}, {"name": "Panasonic", "url": "panasonic-phones-6.php", "count": 123}, {"name": "Pantech", "url": "pantech-phones-32.php", "count": 72}, {"name": "Parla", "url": "parla-phones-81.php", "count": 10}, {"name": "Philips", "url": "philips-phones-11.php", "count": 233}, {"name": "Plum", "url": "plum-phones-72.php", "count": 113}, {"name": "Posh", "url": "posh-phones-101.php", "count": 30}, {"name": "Prestigio", "url": "prestigio-phones-86.php", "count": 56}, {"name": "QMobile", "url": "qmobile-phones-103.php", "count": 90}, {"name": "Qtek", "url": "qtek-phones-38.php", "count": 21}, {"name": "Razer", "url": "razer-phones-117.php", "count": 2}, {"name": "Realme", "url": "realme-phones-118.php", "count": 299}, {"name": "RugOne", "url": "rugone-phones-136.php", "count": 3}, {"name": "Sagem", "url": "sagem-phones-13.php", "count": 120}, {"name": "Samsung", "url": "samsung-phones-9.php", "count": 1470}, {"name": "Sendo", "url": "sendo-phones-18.php", "count": 19}, {"name": "Sewon", "url": "sewon-phones-26.php", "count": 25}, {"name": "Sharp", "url": "sharp-phones-23.php", "count": 83}, {"name": "Siemens", "url": "siemens-phones-3.php", "count": 94}, {"name": "Sonim", "url": "sonim-phones-54.php", "count": 24}, {"name": "Sony", "url": "sony-phones-7.php", "count": 164}, {"name": "Sony Ericsson", "url": "sony_ericsson-phones-19.php", "count": 188}, {"name": "Spice", "url": "spice-phones-68.php", "count": 120}, {"name": "T-Mobile", "url": "t_mobile-phones-55.php", "count": 69}, {"name": "TCL", "url": "tcl-phones-123.php", "count": 106}, {"name": "Tecno", "url": "tecno-phones-120.php", "count": 195}, {"name": "Tel.Me.", "url": "tel_me_-phones-21.php", "count": 7}, {"name": "Telit", "url": "telit-phones-16.php", "count": 30}, {"name": "Thuraya", "url": "thuraya-phones-49.php", "count": 2}, {"name": "Toshiba", "url": "toshiba-phones-44.php", "count": 35}, {"name": "Ulefone", "url": "ulefone-phones-124.php", "count": 151}, {"name": "Umidigi", "url": "umidigi-phones-135.php", "count": 80}, {"name": "Unnecto", "url": "unnecto-phones-91.php", "count": 30}, {"name": "Vertu", "url": "vertu-phones-39.php", "count": 17}, {"name": "verykool", "url": "verykool-phones-70.php", "count": 139}, {"name": "vivo", "url": "vivo-phones-98.php", "count": 627}, {"name": "VK Mobile", "url": "vk_mobile-phones-37.php", "count": 31}, {"name": "Vodafone", "url": "vodafone-phones-53.php", "count": 87}, {"name": "Wiko", "url": "wiko-phones-96.php", "count": 103}, {"name": "WND", "url": "wnd-phones-51.php", "count": 5}, {"name": "XCute", "url": "xcute-phones-43.php", "count": 4}, {"name": "Xiaomi", "url": "xiaomi-phones-80.php", "count": 553}, {"name": "XOLO", "url": "xolo-phones-85.php", "count": 81}, {"name": "Yezz", "url": "yezz-phones-78.php", "count": 113}, {"name": "Yota", "url": "yota-phones-99.php", "count": 3}, {"name": "YU", "url": "yu-phones-100.php", "count": 13}, {"name": "ZTE", "url": "zte-phones-62.php", "count": 444}], "listed": ["Acer", "alcatel", "Allview", "Amazon", "Amoi", "Apple", "Archos", "Asus", "AT&T", "Benefon", "BenQ", "BenQ-Siemens", "Bird", "BlackBerry", "Blackview", "BLU", "Bosch", "BQ", "Casio", "Cat", "Celkon", "Chea", "Coolpad", "Cubot", "Dell", "Doogee", "Emporia", "Energizer", "Ericsson", "Eten", "Fairphone", "Fujitsu Siemens", "Garmin-Asus"], "done_urls": []}
+{
+  "brands": [
+    {
+      "name": "Acer",
+      "url": "acer-phones-59.php",
+      "count": 117
+    },
+    {
+      "name": "alcatel",
+      "url": "alcatel-phones-5.php",
+      "count": 414
+    },
+    {
+      "name": "Allview",
+      "url": "allview-phones-88.php",
+      "count": 157
+    },
+    {
+      "name": "Amazon",
+      "url": "amazon-phones-76.php",
+      "count": 28
+    },
+    {
+      "name": "Amoi",
+      "url": "amoi-phones-28.php",
+      "count": 47
+    },
+    {
+      "name": "Apple",
+      "url": "apple-phones-48.php",
+      "count": 153
+    },
+    {
+      "name": "Archos",
+      "url": "archos-phones-90.php",
+      "count": 43
+    },
+    {
+      "name": "Asus",
+      "url": "asus-phones-46.php",
+      "count": 208
+    },
+    {
+      "name": "AT&T",
+      "url": "at&t-phones-57.php",
+      "count": 4
+    },
+    {
+      "name": "Benefon",
+      "url": "benefon-phones-15.php",
+      "count": 9
+    },
+    {
+      "name": "BenQ",
+      "url": "benq-phones-31.php",
+      "count": 35
+    },
+    {
+      "name": "BenQ-Siemens",
+      "url": "benq_siemens-phones-42.php",
+      "count": 28
+    },
+    {
+      "name": "Bird",
+      "url": "bird-phones-34.php",
+      "count": 61
+    },
+    {
+      "name": "BlackBerry",
+      "url": "blackberry-phones-36.php",
+      "count": 92
+    },
+    {
+      "name": "Blackview",
+      "url": "blackview-phones-116.php",
+      "count": 138
+    },
+    {
+      "name": "BLU",
+      "url": "blu-phones-67.php",
+      "count": 369
+    },
+    {
+      "name": "Bosch",
+      "url": "bosch-phones-10.php",
+      "count": 10
+    },
+    {
+      "name": "BQ",
+      "url": "bq-phones-108.php",
+      "count": 20
+    },
+    {
+      "name": "Casio",
+      "url": "casio-phones-77.php",
+      "count": 5
+    },
+    {
+      "name": "Cat",
+      "url": "cat-phones-89.php",
+      "count": 22
+    },
+    {
+      "name": "Celkon",
+      "url": "celkon-phones-75.php",
+      "count": 229
+    },
+    {
+      "name": "Chea",
+      "url": "chea-phones-24.php",
+      "count": 12
+    },
+    {
+      "name": "Coolpad",
+      "url": "coolpad-phones-105.php",
+      "count": 57
+    },
+    {
+      "name": "Cubot",
+      "url": "cubot-phones-130.php",
+      "count": 107
+    },
+    {
+      "name": "Dell",
+      "url": "dell-phones-61.php",
+      "count": 20
+    },
+    {
+      "name": "Doogee",
+      "url": "doogee-phones-129.php",
+      "count": 162
+    },
+    {
+      "name": "Emporia",
+      "url": "emporia-phones-93.php",
+      "count": 15
+    },
+    {
+      "name": "Energizer",
+      "url": "energizer-phones-106.php",
+      "count": 78
+    },
+    {
+      "name": "Ericsson",
+      "url": "ericsson-phones-2.php",
+      "count": 40
+    },
+    {
+      "name": "Eten",
+      "url": "eten-phones-40.php",
+      "count": 22
+    },
+    {
+      "name": "Fairphone",
+      "url": "fairphone-phones-127.php",
+      "count": 6
+    },
+    {
+      "name": "Fujitsu Siemens",
+      "url": "fujitsu_siemens-phones-50.php",
+      "count": 2
+    },
+    {
+      "name": "Garmin-Asus",
+      "url": "garmin_asus-phones-65.php",
+      "count": 5
+    },
+    {
+      "name": "Gigabyte",
+      "url": "gigabyte-phones-47.php",
+      "count": 63
+    },
+    {
+      "name": "Gionee",
+      "url": "gionee-phones-92.php",
+      "count": 95
+    },
+    {
+      "name": "Google",
+      "url": "google-phones-107.php",
+      "count": 46
+    },
+    {
+      "name": "Haier",
+      "url": "haier-phones-33.php",
+      "count": 59
+    },
+    {
+      "name": "HMD",
+      "url": "hmd-phones-133.php",
+      "count": 42
+    },
+    {
+      "name": "Honor",
+      "url": "honor-phones-121.php",
+      "count": 348
+    },
+    {
+      "name": "HP",
+      "url": "hp-phones-41.php",
+      "count": 41
+    },
+    {
+      "name": "HTC",
+      "url": "htc-phones-45.php",
+      "count": 297
+    },
+    {
+      "name": "Huawei",
+      "url": "huawei-phones-58.php",
+      "count": 552
+    },
+    {
+      "name": "i-mate",
+      "url": "i_mate-phones-35.php",
+      "count": 34
+    },
+    {
+      "name": "i-mobile",
+      "url": "i_mobile-phones-52.php",
+      "count": 37
+    },
+    {
+      "name": "Icemobile",
+      "url": "icemobile-phones-69.php",
+      "count": 61
+    },
+    {
+      "name": "Infinix",
+      "url": "infinix-phones-119.php",
+      "count": 172
+    },
+    {
+      "name": "Innostream",
+      "url": "innostream-phones-29.php",
+      "count": 18
+    },
+    {
+      "name": "iNQ",
+      "url": "inq-phones-60.php",
+      "count": 5
+    },
+    {
+      "name": "Intex",
+      "url": "intex-phones-102.php",
+      "count": 15
+    },
+    {
+      "name": "itel",
+      "url": "itel-phones-131.php",
+      "count": 73
+    },
+    {
+      "name": "Jolla",
+      "url": "jolla-phones-84.php",
+      "count": 5
+    },
+    {
+      "name": "Karbonn",
+      "url": "karbonn-phones-83.php",
+      "count": 60
+    },
+    {
+      "name": "Kyocera",
+      "url": "kyocera-phones-17.php",
+      "count": 28
+    },
+    {
+      "name": "Lava",
+      "url": "lava-phones-94.php",
+      "count": 185
+    },
+    {
+      "name": "LeEco",
+      "url": "leeco-phones-109.php",
+      "count": 9
+    },
+    {
+      "name": "Lenovo",
+      "url": "lenovo-phones-73.php",
+      "count": 267
+    },
+    {
+      "name": "LG",
+      "url": "lg-phones-20.php",
+      "count": 667
+    },
+    {
+      "name": "Maxon",
+      "url": "maxon-phones-14.php",
+      "count": 31
+    },
+    {
+      "name": "Maxwest",
+      "url": "maxwest-phones-87.php",
+      "count": 41
+    },
+    {
+      "name": "Meizu",
+      "url": "meizu-phones-74.php",
+      "count": 87
+    },
+    {
+      "name": "Micromax",
+      "url": "micromax-phones-66.php",
+      "count": 289
+    },
+    {
+      "name": "Microsoft",
+      "url": "microsoft-phones-64.php",
+      "count": 32
+    },
+    {
+      "name": "Mitac",
+      "url": "mitac-phones-25.php",
+      "count": 12
+    },
+    {
+      "name": "Mitsubishi",
+      "url": "mitsubishi-phones-8.php",
+      "count": 25
+    },
+    {
+      "name": "Modu",
+      "url": "modu-phones-63.php",
+      "count": 8
+    },
+    {
+      "name": "Motorola",
+      "url": "motorola-phones-4.php",
+      "count": 709
+    },
+    {
+      "name": "MWg",
+      "url": "mwg-phones-56.php",
+      "count": 5
+    },
+    {
+      "name": "NEC",
+      "url": "nec-phones-12.php",
+      "count": 73
+    },
+    {
+      "name": "Neonode",
+      "url": "neonode-phones-22.php",
+      "count": 3
+    },
+    {
+      "name": "NIU",
+      "url": "niu-phones-79.php",
+      "count": 30
+    },
+    {
+      "name": "Nokia",
+      "url": "nokia-phones-1.php",
+      "count": 598
+    },
+    {
+      "name": "Nothing",
+      "url": "nothing-phones-128.php",
+      "count": 16
+    },
+    {
+      "name": "Nvidia",
+      "url": "nvidia-phones-97.php",
+      "count": 3
+    },
+    {
+      "name": "O2",
+      "url": "o2-phones-30.php",
+      "count": 45
+    },
+    {
+      "name": "OnePlus",
+      "url": "oneplus-phones-95.php",
+      "count": 117
+    },
+    {
+      "name": "Oppo",
+      "url": "oppo-phones-82.php",
+      "count": 432
+    },
+    {
+      "name": "Orange",
+      "url": "orange-phones-71.php",
+      "count": 19
+    },
+    {
+      "name": "Oscal",
+      "url": "oscal-phones-134.php",
+      "count": 33
+    },
+    {
+      "name": "Oukitel",
+      "url": "oukitel-phones-132.php",
+      "count": 126
+    },
+    {
+      "name": "Palm",
+      "url": "palm-phones-27.php",
+      "count": 17
+    },
+    {
+      "name": "Panasonic",
+      "url": "panasonic-phones-6.php",
+      "count": 123
+    },
+    {
+      "name": "Pantech",
+      "url": "pantech-phones-32.php",
+      "count": 72
+    },
+    {
+      "name": "Parla",
+      "url": "parla-phones-81.php",
+      "count": 10
+    },
+    {
+      "name": "Philips",
+      "url": "philips-phones-11.php",
+      "count": 233
+    },
+    {
+      "name": "Plum",
+      "url": "plum-phones-72.php",
+      "count": 113
+    },
+    {
+      "name": "Posh",
+      "url": "posh-phones-101.php",
+      "count": 30
+    },
+    {
+      "name": "Prestigio",
+      "url": "prestigio-phones-86.php",
+      "count": 56
+    },
+    {
+      "name": "QMobile",
+      "url": "qmobile-phones-103.php",
+      "count": 90
+    },
+    {
+      "name": "Qtek",
+      "url": "qtek-phones-38.php",
+      "count": 21
+    },
+    {
+      "name": "Razer",
+      "url": "razer-phones-117.php",
+      "count": 2
+    },
+    {
+      "name": "Realme",
+      "url": "realme-phones-118.php",
+      "count": 299
+    },
+    {
+      "name": "RugOne",
+      "url": "rugone-phones-136.php",
+      "count": 3
+    },
+    {
+      "name": "Sagem",
+      "url": "sagem-phones-13.php",
+      "count": 120
+    },
+    {
+      "name": "Samsung",
+      "url": "samsung-phones-9.php",
+      "count": 1470
+    },
+    {
+      "name": "Sendo",
+      "url": "sendo-phones-18.php",
+      "count": 19
+    },
+    {
+      "name": "Sewon",
+      "url": "sewon-phones-26.php",
+      "count": 25
+    },
+    {
+      "name": "Sharp",
+      "url": "sharp-phones-23.php",
+      "count": 83
+    },
+    {
+      "name": "Siemens",
+      "url": "siemens-phones-3.php",
+      "count": 94
+    },
+    {
+      "name": "Sonim",
+      "url": "sonim-phones-54.php",
+      "count": 24
+    },
+    {
+      "name": "Sony",
+      "url": "sony-phones-7.php",
+      "count": 164
+    },
+    {
+      "name": "Sony Ericsson",
+      "url": "sony_ericsson-phones-19.php",
+      "count": 188
+    },
+    {
+      "name": "Spice",
+      "url": "spice-phones-68.php",
+      "count": 120
+    },
+    {
+      "name": "T-Mobile",
+      "url": "t_mobile-phones-55.php",
+      "count": 69
+    },
+    {
+      "name": "TCL",
+      "url": "tcl-phones-123.php",
+      "count": 106
+    },
+    {
+      "name": "Tecno",
+      "url": "tecno-phones-120.php",
+      "count": 195
+    },
+    {
+      "name": "Tel.Me.",
+      "url": "tel_me_-phones-21.php",
+      "count": 7
+    },
+    {
+      "name": "Telit",
+      "url": "telit-phones-16.php",
+      "count": 30
+    },
+    {
+      "name": "Thuraya",
+      "url": "thuraya-phones-49.php",
+      "count": 2
+    },
+    {
+      "name": "Toshiba",
+      "url": "toshiba-phones-44.php",
+      "count": 35
+    },
+    {
+      "name": "Ulefone",
+      "url": "ulefone-phones-124.php",
+      "count": 151
+    },
+    {
+      "name": "Umidigi",
+      "url": "umidigi-phones-135.php",
+      "count": 80
+    },
+    {
+      "name": "Unnecto",
+      "url": "unnecto-phones-91.php",
+      "count": 30
+    },
+    {
+      "name": "Vertu",
+      "url": "vertu-phones-39.php",
+      "count": 17
+    },
+    {
+      "name": "verykool",
+      "url": "verykool-phones-70.php",
+      "count": 139
+    },
+    {
+      "name": "vivo",
+      "url": "vivo-phones-98.php",
+      "count": 627
+    },
+    {
+      "name": "VK Mobile",
+      "url": "vk_mobile-phones-37.php",
+      "count": 31
+    },
+    {
+      "name": "Vodafone",
+      "url": "vodafone-phones-53.php",
+      "count": 87
+    },
+    {
+      "name": "Wiko",
+      "url": "wiko-phones-96.php",
+      "count": 103
+    },
+    {
+      "name": "WND",
+      "url": "wnd-phones-51.php",
+      "count": 5
+    },
+    {
+      "name": "XCute",
+      "url": "xcute-phones-43.php",
+      "count": 4
+    },
+    {
+      "name": "Xiaomi",
+      "url": "xiaomi-phones-80.php",
+      "count": 553
+    },
+    {
+      "name": "XOLO",
+      "url": "xolo-phones-85.php",
+      "count": 81
+    },
+    {
+      "name": "Yezz",
+      "url": "yezz-phones-78.php",
+      "count": 113
+    },
+    {
+      "name": "Yota",
+      "url": "yota-phones-99.php",
+      "count": 3
+    },
+    {
+      "name": "YU",
+      "url": "yu-phones-100.php",
+      "count": 13
+    },
+    {
+      "name": "ZTE",
+      "url": "zte-phones-62.php",
+      "count": 444
+    }
+  ],
+  "listed": [
+    "Acer",
+    "alcatel",
+    "Allview",
+    "Amazon",
+    "Amoi",
+    "Apple",
+    "Archos",
+    "Asus",
+    "AT&T",
+    "Benefon",
+    "BenQ",
+    "BenQ-Siemens",
+    "Bird",
+    "BlackBerry",
+    "Blackview",
+    "BLU",
+    "Bosch",
+    "BQ",
+    "Casio",
+    "Cat",
+    "Celkon",
+    "Chea",
+    "Coolpad",
+    "Cubot",
+    "Dell",
+    "Doogee",
+    "Emporia",
+    "Energizer",
+    "Ericsson",
+    "Eten",
+    "Fairphone",
+    "Fujitsu Siemens",
+    "Garmin-Asus",
+    "Gigabyte",
+    "Gionee",
+    "Google",
+    "Haier",
+    "HMD",
+    "Honor",
+    "HP",
+    "HTC",
+    "Huawei",
+    "i-mate",
+    "i-mobile",
+    "Icemobile",
+    "Infinix",
+    "Innostream",
+    "iNQ",
+    "Intex",
+    "itel",
+    "Jolla",
+    "Karbonn",
+    "Kyocera",
+    "Lava",
+    "LeEco",
+    "Lenovo",
+    "LG",
+    "Maxon",
+    "Maxwest",
+    "Meizu",
+    "Micromax",
+    "Microsoft",
+    "Mitac",
+    "Mitsubishi",
+    "Modu",
+    "Motorola",
+    "MWg",
+    "NEC",
+    "Neonode",
+    "NIU"
+  ],
+  "done_urls": []
+}

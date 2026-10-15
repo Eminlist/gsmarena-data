@@ -1,0 +1,742 @@
+[
+  {
+    "name": "Virat Curve",
+    "url": "lava_virat_curve_5g-14957.php"
+  },
+  {
+    "name": "Virat V1 Pro",
+    "url": "lava_virat_v1_pro_5g-14901.php"
+  },
+  {
+    "name": "Virat V1",
+    "url": "lava_virat_v1_5g-14831.php"
+  },
+  {
+    "name": "Virat V1 4G",
+    "url": "lava_virat_v1-14830.php"
+  },
+  {
+    "name": "Smart 4",
+    "url": "lava_smart_4-14902.php"
+  },
+  {
+    "name": "Smart 4 Plus",
+    "url": "lava_smart_4_plus-14753.php"
+  },
+  {
+    "name": "Shark 2",
+    "url": "lava_shark_2_5g-14691.php"
+  },
+  {
+    "name": "Bold N2 Lite",
+    "url": "lava_bold_n2_lite-14574.php"
+  },
+  {
+    "name": "Bold N2 Pro",
+    "url": "lava_bold_n2_pro-14570.php"
+  },
+  {
+    "name": "Yuva Star 3",
+    "url": "lava_yuva_star_3-14486.php"
+  },
+  {
+    "name": "Blaze Duo 3",
+    "url": "lava_blaze_duo_3_5g-14428.php"
+  },
+  {
+    "name": "Play Max",
+    "url": "lava_play_max_5g-14344.php"
+  },
+  {
+    "name": "Agni 4",
+    "url": "lava_agni_4_5g-14304.php"
+  },
+  {
+    "name": "Bold N1",
+    "url": "lava_bold_n1_5g-14136.php"
+  },
+  {
+    "name": "Play Ultra",
+    "url": "lava_play_ultra_5g-14089.php"
+  },
+  {
+    "name": "Blaze Amoled 2",
+    "url": "lava_blaze_amoled_2_5g-14061.php"
+  },
+  {
+    "name": "Blaze Dragon",
+    "url": "lava_blaze_dragon_5g-14025.php"
+  },
+  {
+    "name": "Storm Play",
+    "url": "lava_storm_play_5g-13950.php"
+  },
+  {
+    "name": "Storm Lite",
+    "url": "lava_storm_lite_5g-13949.php"
+  },
+  {
+    "name": "Bold N1 Pro",
+    "url": "lava_bold_n1_pro-13936.php"
+  },
+  {
+    "name": "Bold N1 4G",
+    "url": "lava_bold_n1-13937.php"
+  },
+  {
+    "name": "Shark",
+    "url": "lava_shark_5g-13903.php"
+  },
+  {
+    "name": "Yuva Star 2",
+    "url": "lava_yuva_star_2-13838.php"
+  },
+  {
+    "name": "Bold",
+    "url": "lava_bold_5g-13775.php"
+  },
+  {
+    "name": "Shark 4G",
+    "url": "lava_shark-13758.php"
+  },
+  {
+    "name": "Prowatch V1",
+    "url": "lava_prowatch_v1-13619.php"
+  },
+  {
+    "name": "Yuva 2 5G",
+    "url": "lava_yuva_2_5g-13594.php"
+  },
+  {
+    "name": "Blaze Duo",
+    "url": "lava_blaze_duo-13560.php"
+  },
+  {
+    "name": "Yuva 4",
+    "url": "lava_yuva_4-13526.php"
+  },
+  {
+    "name": "Agni 3",
+    "url": "lava_agni_3-13396.php"
+  },
+  {
+    "name": "Blaze 3 5G",
+    "url": "lava_blaze_3_5g-13340.php"
+  },
+  {
+    "name": "Yuva Star",
+    "url": "lava_yuva_star-13249.php"
+  },
+  {
+    "name": "Blaze X",
+    "url": "lava_blaze_x-13197.php"
+  },
+  {
+    "name": "Yuva 5G",
+    "url": "lava_yuva_5g-13086.php"
+  },
+  {
+    "name": "Prowatch ZN",
+    "url": "lava_prowatch_zn-12950.php"
+  },
+  {
+    "name": "Prowatch VN",
+    "url": "lava_prowatch_vn-12951.php"
+  },
+  {
+    "name": "O2",
+    "url": "lava_o2-12891.php"
+  },
+  {
+    "name": "Blaze Curve",
+    "url": "lava_blaze_curve-12859.php"
+  },
+  {
+    "name": "Yuva 3",
+    "url": "lava_yuva_3-12816.php"
+  },
+  {
+    "name": "Storm",
+    "url": "lava_storm-12753.php"
+  },
+  {
+    "name": "Yuva 3 Pro",
+    "url": "lava_yuva_3_pro-12742.php"
+  },
+  {
+    "name": "Blaze 2 5G",
+    "url": "lava_blaze_2_5g-12668.php"
+  },
+  {
+    "name": "Blaze Pro 5G",
+    "url": "lava_blaze_pro_5g-12724.php"
+  },
+  {
+    "name": "Blaze 2 Pro",
+    "url": "lava_blaze_2_pro-12552.php"
+  },
+  {
+    "name": "O1",
+    "url": "lava_o1-14048.php"
+  },
+  {
+    "name": "Yuva 2",
+    "url": "lava_yuva_2-12450.php"
+  },
+  {
+    "name": "Agni 2",
+    "url": "lava_agni_2-12271.php"
+  },
+  {
+    "name": "Blaze 1X",
+    "url": "lava_blaze_1x-12247.php"
+  },
+  {
+    "name": "Blaze 2",
+    "url": "lava_blaze_2-12222.php"
+  },
+  {
+    "name": "Yuva 2 Pro",
+    "url": "lava_yuva_2_pro-12133.php"
+  },
+  {
+    "name": "X3",
+    "url": "lava_x3-12040.php"
+  },
+  {
+    "name": "Blaze Nxt",
+    "url": "lava_blaze_nxt-12001.php"
+  },
+  {
+    "name": "Yuva Pro",
+    "url": "lava_yuva_pro-11928.php"
+  },
+  {
+    "name": "Yuva",
+    "url": "lava_yuva-14047.php"
+  },
+  {
+    "name": "Blaze 5G",
+    "url": "lava_blaze_5g-11916.php"
+  },
+  {
+    "name": "Blaze Pro",
+    "url": "lava_blaze_pro-11892.php"
+  },
+  {
+    "name": "Blaze",
+    "url": "lava_blaze-11657.php"
+  },
+  {
+    "name": "Z3 Pro",
+    "url": "lava_z3_pro-12553.php"
+  },
+  {
+    "name": "Z3",
+    "url": "lava_z3-11421.php"
+  },
+  {
+    "name": "X2",
+    "url": "lava_x2-11401.php"
+  },
+  {
+    "name": "Agni 5G",
+    "url": "lava_agni_5g-11210.php"
+  },
+  {
+    "name": "Z2s",
+    "url": "lava_z2s-11024.php"
+  },
+  {
+    "name": "Z2 Max",
+    "url": "lava_z2_max-10902.php"
+  },
+  {
+    "name": "Z6",
+    "url": "lava_z6-10666.php"
+  },
+  {
+    "name": "Z4",
+    "url": "lava_z4-10667.php"
+  },
+  {
+    "name": "Z2",
+    "url": "lava_z2-10668.php"
+  },
+  {
+    "name": "Z1",
+    "url": "lava_z1-10669.php"
+  },
+  {
+    "name": "Z61 Pro",
+    "url": "lava_z61_pro-10323.php"
+  },
+  {
+    "name": "Z71",
+    "url": "lava_z71-10043.php"
+  },
+  {
+    "name": "Z40",
+    "url": "lava_z40-9622.php"
+  },
+  {
+    "name": "Z92",
+    "url": "lava_z92-9541.php"
+  },
+  {
+    "name": "Z81",
+    "url": "lava_z81-9390.php"
+  },
+  {
+    "name": "Z60s",
+    "url": "lava_z60s-9303.php"
+  },
+  {
+    "name": "Z61",
+    "url": "lava_z61-9276.php"
+  },
+  {
+    "name": "Z91 (2GB)",
+    "url": "lava_z91_(2gb)-9266.php"
+  },
+  {
+    "name": "Z91",
+    "url": "lava_z91-9150.php"
+  },
+  {
+    "name": "Z50",
+    "url": "lava_z50-9137.php"
+  },
+  {
+    "name": "Z90",
+    "url": "lava_z90-8888.php"
+  },
+  {
+    "name": "Z80",
+    "url": "lava_z80-8887.php"
+  },
+  {
+    "name": "Z60",
+    "url": "lava_z60-8881.php"
+  },
+  {
+    "name": "A97 2GB+",
+    "url": "lava_a97_2gb+-8792.php"
+  },
+  {
+    "name": "A44",
+    "url": "lava_a44-8728.php"
+  },
+  {
+    "name": "A77",
+    "url": "lava_a77-8692.php"
+  },
+  {
+    "name": "Z25",
+    "url": "lava_z25-8625.php"
+  },
+  {
+    "name": "Z10",
+    "url": "lava_z10-8624.php"
+  },
+  {
+    "name": "X28 Plus",
+    "url": "lava_x28_plus-8611.php"
+  },
+  {
+    "name": "A73",
+    "url": "lava_a73-8560.php"
+  },
+  {
+    "name": "X19",
+    "url": "lava_x19-8510.php"
+  },
+  {
+    "name": "A55",
+    "url": "lava_a55-8448.php"
+  },
+  {
+    "name": "A50",
+    "url": "lava_a50-8447.php"
+  },
+  {
+    "name": "X50 Plus",
+    "url": "lava_x50_plus-8443.php"
+  },
+  {
+    "name": "X41 Plus",
+    "url": "lava_x41_plus-8422.php"
+  },
+  {
+    "name": "A51",
+    "url": "lava_a51-8406.php"
+  },
+  {
+    "name": "A76+",
+    "url": "lava_a76+-8391.php"
+  },
+  {
+    "name": "A97",
+    "url": "lava_a97-8341.php"
+  },
+  {
+    "name": "X28",
+    "url": "lava_x28-8340.php"
+  },
+  {
+    "name": "P7+",
+    "url": "lava_p7+-8274.php"
+  },
+  {
+    "name": "A48",
+    "url": "lava_a48-8237.php"
+  },
+  {
+    "name": "X38",
+    "url": "lava_x38-8217.php"
+  },
+  {
+    "name": "A32",
+    "url": "lava_a32-8211.php"
+  },
+  {
+    "name": "A68",
+    "url": "lava_a68-8210.php"
+  },
+  {
+    "name": "X50",
+    "url": "lava_x50-8209.php"
+  },
+  {
+    "name": "X17",
+    "url": "lava_x17-8194.php"
+  },
+  {
+    "name": "X81",
+    "url": "lava_x81-8144.php"
+  },
+  {
+    "name": "X46",
+    "url": "lava_x46-8141.php"
+  },
+  {
+    "name": "A89",
+    "url": "lava_a89-8124.php"
+  },
+  {
+    "name": "A82",
+    "url": "lava_a82-8123.php"
+  },
+  {
+    "name": "A79",
+    "url": "lava_a79-8122.php"
+  },
+  {
+    "name": "A59",
+    "url": "lava_a59-8121.php"
+  },
+  {
+    "name": "A67",
+    "url": "lava_a67-8120.php"
+  },
+  {
+    "name": "V2 s",
+    "url": "lava_v2_s-8068.php"
+  },
+  {
+    "name": "V2 3GB",
+    "url": "lava_v2_3gb-8069.php"
+  },
+  {
+    "name": "A76",
+    "url": "lava_a76-8077.php"
+  },
+  {
+    "name": "A72",
+    "url": "lava_a72-8076.php"
+  },
+  {
+    "name": "X11",
+    "url": "lava_x11-8071.php"
+  },
+  {
+    "name": "A88",
+    "url": "lava_a88-8070.php"
+  },
+  {
+    "name": "Iris Fuel F2",
+    "url": "lava_iris_fuel_f2-7973.php"
+  },
+  {
+    "name": "A71",
+    "url": "lava_a71-7931.php"
+  },
+  {
+    "name": "P7",
+    "url": "lava_p7-7925.php"
+  },
+  {
+    "name": "V5",
+    "url": "lava_v5-7893.php"
+  },
+  {
+    "name": "X3 (2016)",
+    "url": "lava_x3_(2016)-7894.php"
+  },
+  {
+    "name": "Iris Atom 3",
+    "url": "lava_iris_atom_3-7860.php"
+  },
+  {
+    "name": "Iris Atom",
+    "url": "lava_iris_atom-7861.php"
+  },
+  {
+    "name": "X10",
+    "url": "lava_x10-7788.php"
+  },
+  {
+    "name": "Iris Atom 2X",
+    "url": "lava_iris_atom_2x-7766.php"
+  },
+  {
+    "name": "Iris Atom X",
+    "url": "lava_iris_atom_x-7765.php"
+  },
+  {
+    "name": "Fuel F1",
+    "url": "lava_fuel_f1-7668.php"
+  },
+  {
+    "name": "Iris Fuel F1 Mini",
+    "url": "lava_iris_fuel_f1_mini-7614.php"
+  },
+  {
+    "name": "Flair E2",
+    "url": "lava_flair_e2-7613.php"
+  },
+  {
+    "name": "Pixel V2",
+    "url": "lava_pixel_v2-7574.php"
+  },
+  {
+    "name": "Iris Atom 2",
+    "url": "lava_iris_atom_2-7492.php"
+  },
+  {
+    "name": "Flair Z1",
+    "url": "lava_flair_z1-7491.php"
+  },
+  {
+    "name": "Pixel V1",
+    "url": "lava_pixel_v1-7446.php"
+  },
+  {
+    "name": "Flair P1i",
+    "url": "lava_flair_p1i-7369.php"
+  },
+  {
+    "name": "Iris X1 Atom S",
+    "url": "lava_iris_x1_atom_s-7370.php"
+  },
+  {
+    "name": "Icon",
+    "url": "lava_icon-7226.php"
+  },
+  {
+    "name": "Iris X1 Grand",
+    "url": "lava_iris_x1_grand-7125.php"
+  },
+  {
+    "name": "Iris X1 mini",
+    "url": "lava_iris_x1_mini-7124.php"
+  },
+  {
+    "name": "Iris Alfa",
+    "url": "lava_iris_alfa-7126.php"
+  },
+  {
+    "name": "Iris X8",
+    "url": "lava_iris_x8-7023.php"
+  },
+  {
+    "name": "Iris 470",
+    "url": "lava_iris_470-7029.php"
+  },
+  {
+    "name": "Iris 465",
+    "url": "lava_iris_465-7028.php"
+  },
+  {
+    "name": "Iris 401",
+    "url": "lava_iris_401-7027.php"
+  },
+  {
+    "name": "Iris 350",
+    "url": "lava_iris_350-7025.php"
+  },
+  {
+    "name": "Iris 348",
+    "url": "lava_iris_348-7026.php"
+  },
+  {
+    "name": "Iris 325 Style",
+    "url": "lava_iris_325_style-7024.php"
+  },
+  {
+    "name": "Iris Fuel 60",
+    "url": "lava_iris_fuel_60-6888.php"
+  },
+  {
+    "name": "Iris Win1",
+    "url": "lava_iris_win1-6845.php"
+  },
+  {
+    "name": "Iris 250",
+    "url": "lava_iris_250-6771.php"
+  },
+  {
+    "name": "Iris 400s",
+    "url": "lava_iris_400s-6770.php"
+  },
+  {
+    "name": "Iris 352 Flair",
+    "url": "lava_iris_352_flair-6769.php"
+  },
+  {
+    "name": "Iris 404 Flair",
+    "url": "lava_iris_404_flair-6768.php"
+  },
+  {
+    "name": "Iris 400Q",
+    "url": "lava_iris_400q-6767.php"
+  },
+  {
+    "name": "Iris 410",
+    "url": "lava_iris_410-6766.php"
+  },
+  {
+    "name": "Iris Fuel 50",
+    "url": "lava_iris_fuel_50-6765.php"
+  },
+  {
+    "name": "Iris 310 Style",
+    "url": "lava_iris_310_style-6668.php"
+  },
+  {
+    "name": "Iris 360 Music",
+    "url": "lava_iris_360_music-6667.php"
+  },
+  {
+    "name": "Iris 460",
+    "url": "lava_iris_460-6666.php"
+  },
+  {
+    "name": "Iris X5",
+    "url": "lava_iris_x5-6628.php"
+  },
+  {
+    "name": "Iris Pro 30+",
+    "url": "lava_iris_pro_30+-6605.php"
+  },
+  {
+    "name": "Iris 402e",
+    "url": "lava_iris_402e-6468.php"
+  },
+  {
+    "name": "Iris 350m",
+    "url": "lava_iris_350m-6469.php"
+  },
+  {
+    "name": "3G 412",
+    "url": "lava_3g_412-6470.php"
+  },
+  {
+    "name": "Iris X1",
+    "url": "lava_iris_x1-6399.php"
+  },
+  {
+    "name": "3G 415",
+    "url": "lava_3g_415-6393.php"
+  },
+  {
+    "name": "3G 354",
+    "url": "lava_3g_354-6392.php"
+  },
+  {
+    "name": "Iris 504q+",
+    "url": "lava_iris_504q+-6350.php"
+  },
+  {
+    "name": "Iris 356",
+    "url": "lava_iris_356-6349.php"
+  },
+  {
+    "name": "Iris 450 Colour",
+    "url": "lava_iris_450_colour-6299.php"
+  },
+  {
+    "name": "Iris 406Q",
+    "url": "lava_iris_406q-6298.php"
+  },
+  {
+    "name": "Iris 550Q",
+    "url": "lava_iris_550q-6253.php"
+  },
+  {
+    "name": "Iris Pro 20",
+    "url": "lava_iris_pro_20-6300.php"
+  },
+  {
+    "name": "Iris Pro 30",
+    "url": "lava_iris_pro_30-6301.php"
+  },
+  {
+    "name": "Iris 401e",
+    "url": "lava_iris_401e-6302.php"
+  },
+  {
+    "name": "Iris 349S",
+    "url": "lava_iris_349s-6303.php"
+  },
+  {
+    "name": "Iris 349+",
+    "url": "lava_iris_349+-6304.php"
+  },
+  {
+    "name": "Iris 404e",
+    "url": "lava_iris_404e-6305.php"
+  },
+  {
+    "name": "Iris 503e",
+    "url": "lava_iris_503e-6306.php"
+  },
+  {
+    "name": "Iris 506Q",
+    "url": "lava_iris_506q-6308.php"
+  },
+  {
+    "name": "Iris 505",
+    "url": "lava_iris_505-6309.php"
+  },
+  {
+    "name": "Iris 504q",
+    "url": "lava_iris_504q-6310.php"
+  },
+  {
+    "name": "3G 402+",
+    "url": "lava_3g_402+-6311.php"
+  },
+  {
+    "name": "3G 402",
+    "url": "lava_3g_402-6312.php"
+  },
+  {
+    "name": "Iris 405+",
+    "url": "lava_iris_405+-6313.php"
+  },
+  {
+    "name": "Iris 503",
+    "url": "lava_iris_503-6314.php"
+  }
+]
