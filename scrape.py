@@ -17,6 +17,9 @@ DELAY = 10
 START = time.time()
 MAX_SECONDS = int(os.environ.get("MAX_SECONDS", "0"))  # 0 = no limit
 
+# API Key-i GitHub Secrets-dən və ya buradakı xxxxxxxx dəyərindən götürür
+API_KEY = os.getenv("SCRAPER_API_KEY", "xxxxxxxx")
+
 class TimeUp(Exception):
     pass
 
@@ -29,20 +32,31 @@ def check_time(extra=0):
 
 def get(url):
     wait = 120
+    payload = {
+        'api_key': API_KEY,
+        'url': url,
+        'render': 'true'
+    }
+    scraper_api_url = 'https://api.scraperapi.com/'
+
     for attempt in range(30):
         check_time()
         try:
-            r = S.get(url, timeout=40)
+            # Sorğu birbaşa hədəfə yox, ScraperAPI-yə gedir
+            r = S.get(scraper_api_url, params=payload, timeout=60)
         except Exception as e:
             log("ERR", url, e); time.sleep(60); continue
+        
         if r.status_code == 200:
             time.sleep(DELAY)
             return r.text
         if r.status_code == 404:
             log("404", url); time.sleep(DELAY); return None
+            
         log("HTTP", r.status_code, url, "wait", wait)
         check_time(wait)
         time.sleep(wait); wait = min(wait * 2, 1800)
+        
     raise SystemExit("gave up: " + url)
 
 def safe(n):
@@ -149,4 +163,3 @@ try:
     main()
 except TimeUp:
     log("TIME LIMIT - stopping, progress saved")
-
