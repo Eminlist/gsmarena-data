@@ -1,9 +1,9 @@
-name: GSMArena scrape
+name: GSMArena Clean Scrape
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */6 * * *"   # backup restart in case the chain breaks
+    - cron: "17 */6 * * *"   # hər 6 saatda bir yoxlama (zəncir qırılsa bərpa olsun)
 
 concurrency:
   group: gsmarena-scrape
@@ -16,51 +16,74 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 350          # \~5 saat 50 dəqiqə
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Check if already finished
         id: chk
         run: |
-          if [ -f FINISHED ]; then echo "done=1" >> $GITHUB_OUTPUT; else echo "done=0" >> $GITHUB_OUTPUT; fi
+          if [ -f FINISHED ]; then
+            echo "done=1" >> $GITHUB_OUTPUT
+            echo "Artıq bitib, yeni işə ehtiyac yoxdur."
+          else
+            echo "done=0" >> $GITHUB_OUTPUT
+          fi
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
         if: steps.chk.outputs.done == '0'
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Install
+      - name: Install dependencies
         if: steps.chk.outputs.done == '0'
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 lxml
 
-      - name: Scrape (max ~5h20m per run)
+      - name: Run main scraper
         if: steps.chk.outputs.done == '0'
         env:
-          MAX_SECONDS: "19200"
+          MAX_SECONDS: "19200"                    # \~5 saat 20 dəqiqə
           SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
         run: python scrape.py | tee -a scrape_log.txt
 
-      - name: Save progress
+      - name: Retry failed records
+        if: always() && steps.chk.outputs.done == '0'
+        env:
+          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
+        run: |
+          if [ -f errors.jsonl ]; then
+            echo "errors.jsonl tapıldı → retry başlayır..."
+            python retry_errors.py | tee -a scrape_log.txt
+          else
+            echo "errors.jsonl yoxdur, retry lazım deyil."
+          fi
+
+      - name: Save progress to repository
         if: always() && steps.chk.outputs.done == '0'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Progress $(date -u +'%Y-%m-%d %H:%M') UTC" || echo "nothing to commit"
+          git commit -m "Progress $(date -u +'%Y-%m-%d %H:%M') UTC" || echo "Nothing to commit"
           git push
 
-      - name: Publish zip when finished
+      - name: Publish final release when finished
         if: steps.chk.outputs.done == '0' && hashFiles('FINISHED') != ''
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          zip -r -q GSMArena_full.zip specs lists
-          gh release view full >/dev/null 2>&1 || gh release create full -t "GSMArena full specs" -n "All brands, all models, full spec pages."
+          echo "Scraping finished → zip yaradılır..."
+          zip -r -q GSMArena_full.zip specs lists state.json errors.jsonl FINISHED scrape_log.txt || true
+          gh release view full >/dev/null 2>&1 || gh release create full -t "GSMArena Full Clean Specs" -n "Təmiz və tam baza"
           gh release upload full GSMArena_full.zip --clobber
 
-      - name: Start next run
+      - name: Start next run (if not finished)
         if: steps.chk.outputs.done == '0' && hashFiles('FINISHED') == ''
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh workflow run scrape.yml --ref ${{ github.ref_name }}
+        run: |
+          echo "Hələ bitməyib → növbəti run işə salınır..."
+          gh workflow run scrape.yml --ref ${{ github.ref_name }}
