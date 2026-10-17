@@ -255,3 +255,24 @@
 10-16 23:26:13 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=18 wait=1500s
 10-16 23:51:14 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=19 wait=1500s
 10-16 23:51:14 TIME LIMIT - dayandım, progress saxlanıldı
+10-16 23:51:29 LIST → Nokia
+10-16 23:51:29 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=1 wait=45s
+10-16 23:52:14 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=2 wait=76s
+10-16 23:53:31 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=3 wait=130s
+10-16 23:55:41 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=4 wait=221s
+10-16 23:59:23 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=5 wait=375s
+10-17 00:05:39 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=6 wait=638s
+10-17 00:16:18 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=7 wait=1086s
+10-17 00:34:25 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=8 wait=1500s
+10-17 00:59:25 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=9 wait=1500s
+10-17 01:24:26 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=10 wait=1500s
+10-17 01:49:26 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=11 wait=1500s
+10-17 02:14:26 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=12 wait=1500s
+10-17 02:39:27 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=13 wait=1500s
+10-17 03:04:27 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=14 wait=1500s
+10-17 03:29:28 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=15 wait=1500s
+10-17 03:54:28 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=16 wait=1500s
+10-17 04:19:28 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=17 wait=1500s
+10-17 04:44:29 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=18 wait=1500s
+10-17 05:09:29 HTTP 401 https://www.gsmarena.com/nokia-phones-1.php attempt=19 wait=1500s
+10-17 05:09:29 TIME LIMIT - dayandım, progress saxlanıldı
